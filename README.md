@@ -18,8 +18,17 @@
 - 😄 Pronombres: Me llaman "Craft" por construir cosas *referencia*("Minecraft").
 
 - ⚡ Dato curioso: me encantan los videojuegos, son mi pasatiempo favorito.
+  
+- 🎓 Mis Proyectos Actuales son :  Link al repo correcto
+  
+-  🏁 Proyecto-Web-Barberia -> https://github.com/LukeAldoCraft/Proyecto-Web-Barberia
+  
+-  🏁 Proyecto-Oracle-Encriptador ->  https://github.com/LukeAldoCraft/Proyecto-Oracle-Encriptador
+  
+-  🏁 Conversor-De-Monedas-Oracle -> https://github.com/LukeAldoCraft/Conversor-De-Monedas-Oracle
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 ### Hi there 👋
 
@@ -41,4 +50,12 @@
 - 😄 Pronouns: They call me "craft" for building things  *reference*("Minecraft").
 
 - ⚡ Fun fact:  I love video games they are my favorite past time.
+  
+-  🎓 My Current Projects are: Link to the correct repo
+  
+- 🏁 Project-Web-Barbershop -> https://github.com/LukeAldoCraft/Proyecto-Web-Barbershop
+  
+- 🏁 Project-Oracle-Encryptor -> https://github.com/LukeAldoCraft/Project-Oracle-Encryptor
+  
+- 🏁 Oracle-Currency-Converter -> https://github.com/LukeAldoCraft/Oracle-Currency-Converter
 
