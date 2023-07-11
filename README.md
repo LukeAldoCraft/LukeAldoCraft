@@ -53,9 +53,9 @@
   
 -   🎓    My Current Projects are: Link to the correct repo
   
--   🏁  Project-Web-Barbershop -> https://github.com/LukeAldoCraft/Proyecto-Web-Barbershop
+-   🏁  Project-Web-Barbershop -> https://github.com/LukeAldoCraft/Proyecto-Web-Barberia
   
--   🏁   Project-Oracle-Encryptor -> https://github.com/LukeAldoCraft/Project-Oracle-Encryptor
+-   🏁   Project-Oracle-Encryptor -> https://github.com/LukeAldoCraft/Proyecto-Oracle-Encriptador 
   
--   🏁  Oracle-Currency-Converter -> https://github.com/LukeAldoCraft/Oracle-Currency-Converter
+-   🏁  Oracle-Currency-Converter -> https://github.com/LukeAldoCraft/Conversor-De-Monedas-Oracle
 
