@@ -29,7 +29,7 @@
 
 -  🏁  Proyecto-Hotel-Alura -> https://github.com/LukeAldoCraft/Proyecto-Hotel-Alura
 
--  🏁   Proyecto-Foro-APIRest-SpringBoot -> https://github.com/LukeAldoCraft/Proyecto-Foro-APIRest-SpringBoot
+-  🏁   Proyecto-Foro-APIRest-SpringBoot -> https://github.com/LukeAldoCraft/Proyecto-ConsultorioMedico-APIRest-SpringBoot
                                      
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
@@ -65,6 +65,6 @@
 
 -   🏁  Project-Hotel-Alura -> https://github.com/LukeAldoCraft/Proyecto-Hotel-Alura
 
--  🏁   Proyecto-Foro-APIRest-SpringBoot -> https://github.com/LukeAldoCraft/Proyecto-Foro-APIRest-SpringBoot
+-  🏁   Proyecto-Foro-APIRest-SpringBoot -> https://github.com/LukeAldoCraft/Proyecto-ConsultorioMedico-APIRest-SpringBoot
 
 
